@@ -369,22 +369,16 @@ B2C SaaS-концепция «второй памяти» для важных д
 <div align="center">
 
 <a href="https://github.com/Rudtrip">
-  <img width="49%" src="https://raw.githubusercontent.com/Rudtrip/Rudtrip/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub-статистика">
+  <img width="49%" src="https://raw.githubusercontent.com/Rudtrip/Rudtrip/main/assets/github-stats.svg" alt="GitHub-статистика Руди Салеха">
 </a>
 <a href="https://github.com/Rudtrip?tab=repositories">
-  <img width="49%" src="https://raw.githubusercontent.com/Rudtrip/Rudtrip/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Основные языки">
+  <img width="49%" src="https://raw.githubusercontent.com/Rudtrip/Rudtrip/main/assets/top-languages.svg" alt="Основные языки во всех репозиториях">
 </a>
 
 <br>
 
 <a href="https://github.com/Rudtrip">
   <img width="70%" src="https://raw.githubusercontent.com/Rudtrip/Rudtrip/main/assets/streak.svg" alt="Серия вкладов GitHub">
-</a>
-
-<br>
-
-<a href="https://github.com/Rudtrip">
-  <img width="98%" src="https://raw.githubusercontent.com/Rudtrip/Rudtrip/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Сводка профиля GitHub">
 </a>
 
 </div>

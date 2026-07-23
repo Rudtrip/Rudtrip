@@ -1,0 +1,51 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub-статистика Руди Салеха</title>
+  <desc id="desc">19 репозиториев, 13 приватных, 6 публичных и одна звезда.</desc>
+  <defs>
+    <linearGradient id="accent" x1="16" y1="0" x2="479" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F46E5"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="495" y2="195" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-100%" width="140%" height="300%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+  </defs>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="13.5" fill="url(#panel)" stroke="#30363D"/>
+  <rect x="16" y="0" width="463" height="3" rx="1.5" fill="url(#accent)" filter="url(#glow)" opacity="0.65"/>
+  <rect x="16" y="1" width="463" height="2" rx="1" fill="url(#accent)"/>
+
+  <g font-family="'Segoe UI', Arial, sans-serif">
+    <circle cx="28" cy="29" r="9" fill="#7C3AED" opacity="0.2"/>
+    <path d="M28 21.5a7.5 7.5 0 0 0-2.37 14.62c.38.07.52-.16.52-.36v-1.48c-2.12.46-2.57-.9-2.57-.9-.35-.89-.85-1.12-.85-1.12-.69-.48.05-.47.05-.47.77.05 1.17.79 1.17.79.68 1.17 1.79.83 2.23.63.07-.49.27-.83.48-1.02-1.69-.19-3.47-.85-3.47-3.73 0-.82.29-1.5.79-2.02-.08-.2-.34-.97.07-1.99 0 0 .64-.2 2.06.77A7.16 7.16 0 0 1 28 24.97c.64 0 1.28.09 1.88.25 1.43-.97 2.07-.77 2.07-.77.41 1.02.15 1.79.07 1.99.49.52.78 1.2.78 2.02 0 2.89-1.78 3.53-3.48 3.72.28.24.52.7.52 1.42v2.16c0 .2.14.44.52.36A7.5 7.5 0 0 0 28 21.5Z" fill="#A78BFA"/>
+    <text x="45" y="34" fill="#E6EDF3" font-size="15" font-weight="600">GitHub · обзор профиля</text>
+    <text x="467" y="33" fill="#8B949E" font-size="10" text-anchor="end">Rudtrip</text>
+
+    <line x1="247.5" y1="52" x2="247.5" y2="148" stroke="#30363D"/>
+    <line x1="28" y1="100" x2="467" y2="100" stroke="#30363D"/>
+
+    <text x="28" y="82" fill="#C4B5FD" font-size="25" font-weight="700">19</text>
+    <text x="72" y="75" fill="#E6EDF3" font-size="12" font-weight="600">репозиториев</text>
+    <text x="72" y="91" fill="#8B949E" font-size="10">в портфеле</text>
+
+    <text x="267" y="82" fill="#C4B5FD" font-size="25" font-weight="700">13</text>
+    <text x="311" y="75" fill="#E6EDF3" font-size="12" font-weight="600">приватных</text>
+    <text x="311" y="91" fill="#8B949E" font-size="10">продуктовых проектов</text>
+
+    <text x="28" y="137" fill="#C4B5FD" font-size="25" font-weight="700">6</text>
+    <text x="58" y="130" fill="#E6EDF3" font-size="12" font-weight="600">публичных</text>
+    <text x="58" y="146" fill="#8B949E" font-size="10">репозиториев</text>
+
+    <text x="267" y="137" fill="#C4B5FD" font-size="25" font-weight="700">1</text>
+    <text x="297" y="130" fill="#E6EDF3" font-size="12" font-weight="600">звезда</text>
+    <text x="297" y="146" fill="#8B949E" font-size="10">open-source проектов</text>
+
+    <rect x="28" y="163" width="439" height="1" fill="#21262D"/>
+    <text x="28" y="181" fill="#8B949E" font-size="9">Публичные и приватные репозитории · актуально на июль 2026</text>
+    <circle cx="457" cy="177.5" r="3.5" fill="#7C3AED"/>
+  </g>
+</svg>
