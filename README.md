@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:8B5CF6&height=230&section=header&text=Rudi%20Saleh&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Product%20Manager%20%7C%20%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%20%7C%20AI-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:8B5CF6&height=230&section=header&text=Руди%20Салех&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Product%20Manager%20%7C%20%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%20%7C%20AI-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B&descAlignY=58&descSize=18)
 
 <div align="center">
 
